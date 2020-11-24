@@ -7,6 +7,6 @@ spec:
   clusterName: sabre-gke
   git:
     syncRepo: git@github.com:EcaterinaGr/unicredit-configsync.git
-    syncBranch: master
+    syncBranch: main
     secretType: ssh
     policyDir: cluster_config
